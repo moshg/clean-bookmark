@@ -1,3 +1,5 @@
+"""ブックマークを整理する."""
+
 import json
 from os import path
 import sys
